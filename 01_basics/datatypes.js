@@ -48,3 +48,20 @@ function greet(name) {
 
   console.log(typeof greet);  // function 
   
+
+
+//   type conversion :- JavaScript allows automatic or manual conversion between data types:[implicit and explicit type conversion]
+
+console.log("example of implicit type conversion");
+let result = 5 + "5"; 
+console.log(result);
+// which means IMPLICIT CONVERSIONS:-> Happens automatically when operations involve different data types.
+
+console.log("example of explicit type conversion");
+let str = "123";
+let num = Number(str); 
+console.log(str);// initially it was string type 
+console.log(num);//but after explicitly or forcly it converted into number type 
+
+// You can convert between data types manually using functions like String(), Number(), and Boolean()
+
