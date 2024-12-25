@@ -1,0 +1,1 @@
+console.log("revising all the concepts of js starting from let,const and var specially regarding hoisting")
