@@ -65,3 +65,8 @@ console.log(num);//but after explicitly or forcly it converted into number type
 
 // You can convert between data types manually using functions like String(), Number(), and Boolean()
 
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+STACK AND HEAP according to the datatypes .
+
+PTS TO REMEMBER :-. 1-> primitive data types uses stack memory whereas non-primitive once uses heap memory */
